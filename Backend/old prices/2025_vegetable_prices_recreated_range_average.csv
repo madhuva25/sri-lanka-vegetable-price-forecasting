@@ -1,0 +1,469 @@
+Week,Date,Vegetable,Retail Min (Rs/kg),Retail Max (Rs/kg),Retail Average (Rs/kg)
+1,03–09 January 2025,Green Beans,320.0,550,435.0
+1,03–09 January 2025,Carrot,240.0,400,320.0
+1,03–09 January 2025,Leeks,260.0,400,330.0
+1,03–09 January 2025,Tomato,350.0,600,475.0
+1,03–09 January 2025,Ladies Fingers,160.0,360,260.0
+1,03–09 January 2025,Brinjal,320.0,560,440.0
+1,03–09 January 2025,Cucumber,120.0,320,220.0
+1,03–09 January 2025,Bitter Gourd,350.0,900,625.0
+1,03–09 January 2025,Long Beans,260.0,450,355.0
+2,10–16 January 2025,Green Beans,350.0,480,415.0
+2,10–16 January 2025,Carrot,300.0,480,390.0
+2,10–16 January 2025,Leeks,260.0,420,340.0
+2,10–16 January 2025,Tomato,250.0,480,365.0
+2,10–16 January 2025,Ladies Fingers,200.0,340,270.0
+2,10–16 January 2025,Brinjal,350.0,480,415.0
+2,10–16 January 2025,Cucumber,160.0,320,240.0
+2,10–16 January 2025,Bitter Gourd,400.0,720,560.0
+2,10–16 January 2025,Long Beans,250.0,480,365.0
+3,17–23 January 2025,Green Beans,320.0,700,510.0
+3,17–23 January 2025,Carrot,280.0,480,380.0
+3,17–23 January 2025,Leeks,300.0,450,375.0
+3,17–23 January 2025,Tomato,250.0,480,365.0
+3,17–23 January 2025,Ladies Fingers,200.0,360,280.0
+3,17–23 January 2025,Brinjal,320.0,480,400.0
+3,17–23 January 2025,Cucumber,160.0,320,240.0
+3,17–23 January 2025,Bitter Gourd,350.0,700,525.0
+3,17–23 January 2025,Long Beans,260.0,480,370.0
+4,24–30 January 2025,Green Beans,400.0,650,525.0
+4,24–30 January 2025,Carrot,260.0,480,370.0
+4,24–30 January 2025,Leeks,280.0,480,380.0
+4,24–30 January 2025,Tomato,320.0,480,400.0
+4,24–30 January 2025,Ladies Fingers,240.0,420,330.0
+4,24–30 January 2025,Brinjal,320.0,500,410.0
+4,24–30 January 2025,Cucumber,150.0,340,245.0
+4,24–30 January 2025,Bitter Gourd,340.0,600,470.0
+4,24–30 January 2025,Long Beans,260.0,480,370.0
+5,31 January–06 February 2025,Green Beans,540.0,700,620.0
+5,31 January–06 February 2025,Carrot,450.0,650,550.0
+5,31 January–06 February 2025,Leeks,300.0,480,390.0
+5,31 January–06 February 2025,Tomato,220.0,400,310.0
+5,31 January–06 February 2025,Ladies Fingers,280.0,400,340.0
+5,31 January–06 February 2025,Brinjal,400.0,600,500.0
+5,31 January–06 February 2025,Cucumber,140.0,360,250.0
+5,31 January–06 February 2025,Bitter Gourd,500.0,680,590.0
+5,31 January–06 February 2025,Long Beans,350.0,600,475.0
+6,07–13 February 2025,Green Beans,450.0,700,575.0
+6,07–13 February 2025,Carrot,460.0,850,655.0
+6,07–13 February 2025,Leeks,240.0,480,360.0
+6,07–13 February 2025,Tomato,200.0,400,300.0
+6,07–13 February 2025,Ladies Fingers,250.0,450,350.0
+6,07–13 February 2025,Brinjal,500.0,720,610.0
+6,07–13 February 2025,Cucumber,150.0,320,235.0
+6,07–13 February 2025,Bitter Gourd,450.0,720,585.0
+6,07–13 February 2025,Long Beans,320.0,600,460.0
+7,14–20 February 2025,Green Beans,360.0,600,480.0
+7,14–20 February 2025,Carrot,580.0,"1,000",852.5
+7,14–20 February 2025,Leeks,300.0,600,450.0
+7,14–20 February 2025,Tomato,140.0,400,270.0
+7,14–20 February 2025,Ladies Fingers,170.0,450,310.0
+7,14–20 February 2025,Brinjal,480.0,750,615.0
+7,14–20 February 2025,Cucumber,160.0,320,240.0
+7,14–20 February 2025,Bitter Gourd,480.0,800,640.0
+7,14–20 February 2025,Long Beans,230.0,560,395.0
+8,21–27 February 2025,Green Beans,220.0,460,340.0
+8,21–27 February 2025,Carrot,540.0,"1,200",879.6
+8,21–27 February 2025,Leeks,260.0,480,370.0
+8,21–27 February 2025,Tomato,150.0,340,245.0
+8,21–27 February 2025,Ladies Fingers,260.0,400,330.0
+8,21–27 February 2025,Brinjal,280.0,640,460.0
+8,21–27 February 2025,Cucumber,180.0,320,250.0
+8,21–27 February 2025,Bitter Gourd,380.0,800,590.0
+8,21–27 February 2025,Long Beans,180.0,420,300.0
+9,28 February–06 March 2025,Green Beans,180.0,400,290.0
+9,28 February–06 March 2025,Carrot,650.0,"1,000",801.79
+9,28 February–06 March 2025,Leeks,250.0,450,350.0
+9,28 February–06 March 2025,Tomato,180.0,340,260.0
+9,28 February–06 March 2025,Ladies Fingers,240.0,400,320.0
+9,28 February–06 March 2025,Brinjal,200.0,400,300.0
+9,28 February–06 March 2025,Cucumber,150.0,320,235.0
+9,28 February–06 March 2025,Bitter Gourd,320.0,600,460.0
+9,28 February–06 March 2025,Long Beans,200.0,400,300.0
+10,07–13 March 2025,Green Beans,400.0,650,525.0
+10,07–13 March 2025,Carrot,720.0,"1,000",813.33
+10,07–13 March 2025,Leeks,240.0,450,345.0
+10,07–13 March 2025,Tomato,240.0,400,320.0
+10,07–13 March 2025,Ladies Fingers,220.0,400,310.0
+10,07–13 March 2025,Brinjal,180.0,360,270.0
+10,07–13 March 2025,Cucumber,180.0,350,265.0
+10,07–13 March 2025,Bitter Gourd,360.0,600,480.0
+10,07–13 March 2025,Long Beans,340.0,560,450.0
+11,14–20 March 2025,Green Beans,480.0,850,665.0
+11,14–20 March 2025,Carrot,540.0,950,745.0
+11,14–20 March 2025,Leeks,220.0,440,330.0
+11,14–20 March 2025,Tomato,260.0,480,370.0
+11,14–20 March 2025,Ladies Fingers,280.0,420,350.0
+11,14–20 March 2025,Brinjal,200.0,400,300.0
+11,14–20 March 2025,Cucumber,180.0,360,270.0
+11,14–20 March 2025,Bitter Gourd,400.0,600,500.0
+11,14–20 March 2025,Long Beans,350.0,560,455.0
+12,21–27 March 2025,Green Beans,460.0,800,630.0
+12,21–27 March 2025,Carrot,480.0,900,690.0
+12,21–27 March 2025,Leeks,140.0,400,270.0
+12,21–27 March 2025,Tomato,200.0,480,340.0
+12,21–27 March 2025,Ladies Fingers,200.0,480,340.0
+12,21–27 March 2025,Brinjal,300.0,480,390.0
+12,21–27 March 2025,Cucumber,120.0,320,220.0
+12,21–27 March 2025,Bitter Gourd,400.0,600,500.0
+12,21–27 March 2025,Long Beans,320.0,560,440.0
+13,28 March–03 April 2025,Green Beans,540.0,800,670.0
+13,28 March–03 April 2025,Carrot,550.0,800,675.0
+13,28 March–03 April 2025,Leeks,220.0,360,290.0
+13,28 March–03 April 2025,Tomato,240.0,480,360.0
+13,28 March–03 April 2025,Ladies Fingers,300.0,400,350.0
+13,28 March–03 April 2025,Brinjal,500.0,720,610.0
+13,28 March–03 April 2025,Cucumber,130.0,320,225.0
+13,28 March–03 April 2025,Bitter Gourd,400.0,650,525.0
+13,28 March–03 April 2025,Long Beans,320.0,520,420.0
+14,04–10 April 2025,Green Beans,460.0,800.0,630.0
+14,04–10 April 2025,Carrot,360.0,600.0,480.0
+14,04–10 April 2025,Leeks,180.0,400.0,290.0
+14,04–10 April 2025,Tomato,300.0,600.0,450.0
+14,04–10 April 2025,Ladies Fingers,300.0,480.0,390.0
+14,04–10 April 2025,Brinjal,460.0,750.0,605.0
+14,04–10 April 2025,Cucumber,120.0,220.0,170.0
+14,04–10 April 2025,Bitter Gourd,400.0,640.0,520.0
+14,04–10 April 2025,Long Beans,300.0,480.0,390.0
+15,11–17 April 2025,Green Beans,350.0,700,525.0
+15,11–17 April 2025,Carrot,380.0,550,465.0
+15,11–17 April 2025,Leeks,100.0,200,150.0
+15,11–17 April 2025,Tomato,550.0,800,675.0
+15,11–17 April 2025,Ladies Fingers,250.0,350,300.0
+15,11–17 April 2025,Brinjal,500.0,700,600.0
+15,11–17 April 2025,Cucumber,100.0,150,125.0
+15,11–17 April 2025,Bitter Gourd,350.0,450,400.0
+15,11–17 April 2025,Long Beans,250.0,560.0,405.0
+16,18–24 April 2025,Green Beans,520.0,800,660.0
+16,18–24 April 2025,Carrot,350.0,680,515.0
+16,18–24 April 2025,Leeks,120.0,400,260.0
+16,18–24 April 2025,Tomato,560.0,800,680.0
+16,18–24 April 2025,Ladies Fingers,280.0,480,380.0
+16,18–24 April 2025,Brinjal,280.0,600,440.0
+16,18–24 April 2025,Cucumber,100.0,320,210.0
+16,18–24 April 2025,Bitter Gourd,350.0,600,475.0
+16,18–24 April 2025,Long Beans,250.0,560,405.0
+17,25 April–01 May 2025,Green Beans,540.0,800,670.0
+17,25 April–01 May 2025,Carrot,420.0,750,585.0
+17,25 April–01 May 2025,Leeks,160.0,400,280.0
+17,25 April–01 May 2025,Tomato,600.0,"1,000",817.69
+17,25 April–01 May 2025,Ladies Fingers,350.0,560,455.0
+17,25 April–01 May 2025,Brinjal,420.0,600,510.0
+17,25 April–01 May 2025,Cucumber,120.0,320,220.0
+17,25 April–01 May 2025,Bitter Gourd,400.0,600,500.0
+17,25 April–01 May 2025,Long Beans,320.0,600,460.0
+18,02–08 May 2025,Green Beans,500.0,800,650.0
+18,02–08 May 2025,Carrot,600.0,850,725.0
+18,02–08 May 2025,Leeks,200.0,420,310.0
+18,02–08 May 2025,Tomato,650.0,"1,000",853.04
+18,02–08 May 2025,Ladies Fingers,320.0,460,390.0
+18,02–08 May 2025,Brinjal,450.0,650,550.0
+18,02–08 May 2025,Cucumber,100.0,280,190.0
+18,02–08 May 2025,Bitter Gourd,340.0,680,510.0
+18,02–08 May 2025,Long Beans,360.0,560,460.0
+19,09–15 May 2025,Green Beans,550.0,800,675.0
+19,09–15 May 2025,Carrot,600.0,"1,200",867.5
+19,09–15 May 2025,Leeks,240.0,400,320.0
+19,09–15 May 2025,Tomato,680.0,"1,200",959.0
+19,09–15 May 2025,Ladies Fingers,280.0,520,400.0
+19,09–15 May 2025,Brinjal,400.0,650,525.0
+19,09–15 May 2025,Cucumber,130.0,240,185.0
+19,09–15 May 2025,Bitter Gourd,400.0,680,540.0
+19,09–15 May 2025,Long Beans,300.0,620,460.0
+20,16–22 May 2025,Green Beans,300.0,650,475.0
+20,16–22 May 2025,Carrot,750.0,"1,100",879.17
+20,16–22 May 2025,Leeks,260.0,450,355.0
+20,16–22 May 2025,Tomato,700.0,"1,200",947.2
+20,16–22 May 2025,Ladies Fingers,230.0,480,355.0
+20,16–22 May 2025,Brinjal,380.0,600,490.0
+20,16–22 May 2025,Cucumber,100.0,280,190.0
+20,16–22 May 2025,Bitter Gourd,400.0,800,600.0
+20,16–22 May 2025,Long Beans,280.0,560,420.0
+21,23–29 May 2025,Green Beans,340.0,600,470.0
+21,23–29 May 2025,Carrot,550.0,800,675.0
+21,23–29 May 2025,Leeks,280.0,400,340.0
+21,23–29 May 2025,Tomato,550.0,"1,000",776.54
+21,23–29 May 2025,Ladies Fingers,180.0,400,290.0
+21,23–29 May 2025,Brinjal,350.0,650,500.0
+21,23–29 May 2025,Cucumber,80.0,260,170.0
+21,23–29 May 2025,Bitter Gourd,380.0,640,510.0
+21,23–29 May 2025,Long Beans,200.0,450,325.0
+22,30 May–05 June 2025,Green Beans,320.0,600,460.0
+22,30 May–05 June 2025,Carrot,600.0,800,700.0
+22,30 May–05 June 2025,Leeks,320.0,560,440.0
+22,30 May–05 June 2025,Tomato,600.0,800,700.0
+22,30 May–05 June 2025,Ladies Fingers,160.0,400,280.0
+22,30 May–05 June 2025,Brinjal,320.0,600,460.0
+22,30 May–05 June 2025,Cucumber,120.0,300,210.0
+22,30 May–05 June 2025,Bitter Gourd,480.0,600,540.0
+22,30 May–05 June 2025,Long Beans,260.0,450,355.0
+23,06–12 June 2025,Green Beans,500.0,800,650.0
+23,06–12 June 2025,Carrot,550.0,900,725.0
+23,06–12 June 2025,Leeks,350.0,560,455.0
+23,06–12 June 2025,Tomato,550.0,900,725.0
+23,06–12 June 2025,Ladies Fingers,160.0,360,260.0
+23,06–12 June 2025,Brinjal,360.0,650,505.0
+23,06–12 June 2025,Cucumber,100.0,260,180.0
+23,06–12 June 2025,Bitter Gourd,420.0,720,570.0
+23,06–12 June 2025,Long Beans,260.0,480,370.0
+24,13–19 June 2025,Green Beans,460.0,800,630.0
+24,13–19 June 2025,Carrot,450.0,800,625.0
+24,13–19 June 2025,Leeks,360.0,600,480.0
+24,13–19 June 2025,Tomato,340.0,650,495.0
+24,13–19 June 2025,Ladies Fingers,160.0,400,280.0
+24,13–19 June 2025,Brinjal,380.0,600,490.0
+24,13–19 June 2025,Cucumber,120.0,280,200.0
+24,13–19 June 2025,Bitter Gourd,380.0,760,570.0
+24,13–19 June 2025,Long Beans,240.0,460,350.0
+25,20–26 June 2025,Green Beans,600.0,800,700.0
+25,20–26 June 2025,Carrot,360.0,650,505.0
+25,20–26 June 2025,Leeks,300.0,560,430.0
+25,20–26 June 2025,Tomato,300.0,560,430.0
+25,20–26 June 2025,Ladies Fingers,180.0,320,250.0
+25,20–26 June 2025,Brinjal,340.0,600,470.0
+25,20–26 June 2025,Cucumber,100.0,260,180.0
+25,20–26 June 2025,Bitter Gourd,450.0,600,525.0
+25,20–26 June 2025,Long Beans,280.0,400,340.0
+26,27 June–03 July 2025,Green Beans,500.0,750,625.0
+26,27 June–03 July 2025,Carrot,300.0,600,450.0
+26,27 June–03 July 2025,Leeks,200.0,480,340.0
+26,27 June–03 July 2025,Tomato,200.0,460,330.0
+26,27 June–03 July 2025,Ladies Fingers,160.0,360,260.0
+26,27 June–03 July 2025,Brinjal,400.0,600,500.0
+26,27 June–03 July 2025,Cucumber,100.0,280,190.0
+26,27 June–03 July 2025,Bitter Gourd,420.0,600,510.0
+26,27 June–03 July 2025,Long Beans,280.0,460,370.0
+27,04–10 July 2025,Green Beans,450.0,650,550.0
+27,04–10 July 2025,Carrot,300.0,600,450.0
+27,04–10 July 2025,Leeks,240.0,480,360.0
+27,04–10 July 2025,Tomato,100.0,320,210.0
+27,04–10 July 2025,Ladies Fingers,100.0,400,250.0
+27,04–10 July 2025,Brinjal,350.0,600,475.0
+27,04–10 July 2025,Cucumber,100.0,260,180.0
+27,04–10 July 2025,Bitter Gourd,360.0,600,480.0
+27,04–10 July 2025,Long Beans,260.0,450,355.0
+28,11–17 July 2025,Green Beans,420.0,680,550.0
+28,11–17 July 2025,Carrot,350.0,600,475.0
+28,11–17 July 2025,Leeks,240.0,400,320.0
+28,11–17 July 2025,Tomato,100.0,260,180.0
+28,11–17 July 2025,Ladies Fingers,150.0,320,235.0
+28,11–17 July 2025,Brinjal,350.0,600,475.0
+28,11–17 July 2025,Cucumber,100.0,240,170.0
+28,11–17 July 2025,Bitter Gourd,300.0,600,450.0
+28,11–17 July 2025,Long Beans,230.0,400,315.0
+29,18–24 July 2025,Green Beans,400.0,700,550.0
+29,18–24 July 2025,Carrot,280.0,520,400.0
+29,18–24 July 2025,Leeks,160.0,400,280.0
+29,18–24 July 2025,Tomato,120.0,300,210.0
+29,18–24 July 2025,Ladies Fingers,140.0,320,230.0
+29,18–24 July 2025,Brinjal,280.0,480,380.0
+29,18–24 July 2025,Cucumber,80.0,260,170.0
+29,18–24 July 2025,Bitter Gourd,200.0,400,300.0
+29,18–24 July 2025,Long Beans,220.0,480,350.0
+30,25–31 July 2025,Green Beans,600.0,800,700.0
+30,25–31 July 2025,Carrot,280.0,480,380.0
+30,25–31 July 2025,Leeks,150.0,400,275.0
+30,25–31 July 2025,Tomato,160.0,320,240.0
+30,25–31 July 2025,Ladies Fingers,150.0,320,235.0
+30,25–31 July 2025,Brinjal,250.0,480,365.0
+30,25–31 July 2025,Cucumber,120.0,240,180.0
+30,25–31 July 2025,Bitter Gourd,250.0,480,365.0
+30,25–31 July 2025,Long Beans,320.0,450,385.0
+31,01–07 August 2025,Green Beans,600.0,750,675.0
+31,01–07 August 2025,Carrot,350.0,640,495.0
+31,01–07 August 2025,Leeks,180.0,400,290.0
+31,01–07 August 2025,Tomato,160.0,320,240.0
+31,01–07 August 2025,Ladies Fingers,160.0,320,240.0
+31,01–07 August 2025,Brinjal,220.0,480,350.0
+31,01–07 August 2025,Cucumber,100.0,250,175.0
+31,01–07 August 2025,Bitter Gourd,230.0,480,355.0
+31,01–07 August 2025,Long Beans,200.0,450,325.0
+32,08–14 August 2025,Green Beans,550.0,750,650.0
+32,08–14 August 2025,Carrot,480.0,650,565.0
+32,08–14 August 2025,Leeks,160.0,340,250.0
+32,08–14 August 2025,Tomato,160.0,320,240.0
+32,08–14 August 2025,Ladies Fingers,180.0,320,250.0
+32,08–14 August 2025,Brinjal,330.0,600,465.0
+32,08–14 August 2025,Cucumber,100.0,240,170.0
+32,08–14 August 2025,Bitter Gourd,250.0,480,365.0
+32,08–14 August 2025,Long Beans,240.0,480,360.0
+33,15–21 August 2025,Green Beans,500.0,800,650.0
+33,15–21 August 2025,Carrot,350.0,600,475.0
+33,15–21 August 2025,Leeks,180.0,320,250.0
+33,15–21 August 2025,Tomato,140.0,280,210.0
+33,15–21 August 2025,Ladies Fingers,160.0,320,240.0
+33,15–21 August 2025,Brinjal,340.0,560,450.0
+33,15–21 August 2025,Cucumber,100.0,200,150.0
+33,15–21 August 2025,Bitter Gourd,260.0,480,370.0
+33,15–21 August 2025,Long Beans,230.0,400,315.0
+34,22–28 August 2025,Green Beans,300.0,600,450.0
+34,22–28 August 2025,Carrot,300.0,480,390.0
+34,22–28 August 2025,Leeks,180.0,360,270.0
+34,22–28 August 2025,Tomato,150.0,360,255.0
+34,22–28 August 2025,Ladies Fingers,160.0,320,240.0
+34,22–28 August 2025,Brinjal,350.0,650,500.0
+34,22–28 August 2025,Cucumber,100.0,240,170.0
+34,22–28 August 2025,Bitter Gourd,320.0,400,360.0
+34,22–28 August 2025,Long Beans,240.0,360,300.0
+35,29 August–04 September 2025,Green Beans,400.0,560,480.0
+35,29 August–04 September 2025,Carrot,280.0,500,390.0
+35,29 August–04 September 2025,Leeks,150.0,360,255.0
+35,29 August–04 September 2025,Tomato,160.0,340,250.0
+35,29 August–04 September 2025,Ladies Fingers,160.0,340,250.0
+35,29 August–04 September 2025,Brinjal,350.0,560,455.0
+35,29 August–04 September 2025,Cucumber,140.0,280,210.0
+35,29 August–04 September 2025,Bitter Gourd,300.0,500,400.0
+35,29 August–04 September 2025,Long Beans,240.0,360,300.0
+36,05–11 September 2025,Green Beans,400.0,560,480.0
+36,05–11 September 2025,Carrot,340.0,560,450.0
+36,05–11 September 2025,Leeks,160.0,450,305.0
+36,05–11 September 2025,Tomato,160.0,340,250.0
+36,05–11 September 2025,Ladies Fingers,160.0,340,250.0
+36,05–11 September 2025,Brinjal,350.0,560,455.0
+36,05–11 September 2025,Cucumber,160.0,300,230.0
+36,05–11 September 2025,Bitter Gourd,340.0,580,460.0
+36,05–11 September 2025,Long Beans,180.0,340,260.0
+37,12–18 September 2025,Green Beans,350.0,600,475.0
+37,12–18 September 2025,Carrot,260.0,450,355.0
+37,12–18 September 2025,Leeks,160.0,350,255.0
+37,12–18 September 2025,Tomato,120.0,320,220.0
+37,12–18 September 2025,Ladies Fingers,200.0,340,270.0
+37,12–18 September 2025,Brinjal,250.0,560,405.0
+37,12–18 September 2025,Cucumber,220.0,320,270.0
+37,12–18 September 2025,Bitter Gourd,400.0,560,480.0
+37,12–18 September 2025,Long Beans,240.0,400,320.0
+38,19–25 September 2025,Green Beans,350.0,600,475.0
+38,19–25 September 2025,Carrot,200.0,360,280.0
+38,19–25 September 2025,Leeks,150.0,340,245.0
+38,19–25 September 2025,Tomato,160.0,280,220.0
+38,19–25 September 2025,Ladies Fingers,180.0,360,270.0
+38,19–25 September 2025,Brinjal,200.0,400,300.0
+38,19–25 September 2025,Cucumber,160.0,320,240.0
+38,19–25 September 2025,Bitter Gourd,350.0,520,435.0
+38,19–25 September 2025,Long Beans,180.0,400,290.0
+39,26 September–02 October 2025,Green Beans,300.0,600,450.0
+39,26 September–02 October 2025,Carrot,180.0,400,290.0
+39,26 September–02 October 2025,Leeks,150.0,340,245.0
+39,26 September–02 October 2025,Tomato,180.0,320,250.0
+39,26 September–02 October 2025,Ladies Fingers,230.0,380,305.0
+39,26 September–02 October 2025,Brinjal,260.0,400,330.0
+39,26 September–02 October 2025,Cucumber,140.0,320,230.0
+39,26 September–02 October 2025,Bitter Gourd,350.0,580,465.0
+39,26 September–02 October 2025,Long Beans,220.0,380,300.0
+40,03–09 October 2025,Green Beans,300.0,520,410.0
+40,03–09 October 2025,Carrot,150.0,360,255.0
+40,03–09 October 2025,Leeks,160.0,360,260.0
+40,03–09 October 2025,Tomato,160.0,350,255.0
+40,03–09 October 2025,Ladies Fingers,200.0,360,280.0
+40,03–09 October 2025,Brinjal,260.0,420,340.0
+40,03–09 October 2025,Cucumber,140.0,320,230.0
+40,03–09 October 2025,Bitter Gourd,350.0,520,435.0
+40,03–09 October 2025,Long Beans,200.0,400,300.0
+41,10–16 October 2025,Green Beans,400.0,540,470.0
+41,10–16 October 2025,Carrot,280.0,560,420.0
+41,10–16 October 2025,Leeks,240.0,480,360.0
+41,10–16 October 2025,Tomato,240.0,500,370.0
+41,10–16 October 2025,Ladies Fingers,160.0,340,250.0
+41,10–16 October 2025,Brinjal,250.0,500,375.0
+41,10–16 October 2025,Cucumber,120.0,240,180.0
+41,10–16 October 2025,Bitter Gourd,260.0,520,390.0
+41,10–16 October 2025,Long Beans,240.0,440,340.0
+42,17–23 October 2025,Green Beans,320.0,460,390.0
+42,17–23 October 2025,Carrot,180.0,320,250.0
+42,17–23 October 2025,Leeks,180.0,320,250.0
+42,17–23 October 2025,Tomato,160.0,320,240.0
+42,17–23 October 2025,Ladies Fingers,160.0,350,255.0
+42,17–23 October 2025,Brinjal,300.0,450,375.0
+42,17–23 October 2025,Cucumber,120.0,260,190.0
+42,17–23 October 2025,Bitter Gourd,350.0,500,425.0
+42,17–23 October 2025,Long Beans,160.0,320,240.0
+43,24–30 October 2025,Green Beans,350.0,600,475.0
+43,24–30 October 2025,Carrot,160.0,400,280.0
+43,24–30 October 2025,Leeks,150.0,340,245.0
+43,24–30 October 2025,Tomato,150.0,320,235.0
+43,24–30 October 2025,Ladies Fingers,180.0,320,250.0
+43,24–30 October 2025,Brinjal,250.0,480,365.0
+43,24–30 October 2025,Cucumber,120.0,320,220.0
+43,24–30 October 2025,Bitter Gourd,350.0,600,475.0
+43,24–30 October 2025,Long Beans,240.0,400,320.0
+44,31 October–06 November 2025,Green Beans,360.0,680,520.0
+44,31 October–06 November 2025,Carrot,200.0,450,325.0
+44,31 October–06 November 2025,Leeks,160.0,400,280.0
+44,31 October–06 November 2025,Tomato,120.0,260,190.0
+44,31 October–06 November 2025,Ladies Fingers,200.0,360,280.0
+44,31 October–06 November 2025,Brinjal,320.0,560,440.0
+44,31 October–06 November 2025,Cucumber,140.0,340,240.0
+44,31 October–06 November 2025,Bitter Gourd,450.0,650,550.0
+44,31 October–06 November 2025,Long Beans,260.0,400,330.0
+45,07–13 November 2025,Green Beans,,,
+45,07–13 November 2025,Carrot,,,
+45,07–13 November 2025,Leeks,,,
+45,07–13 November 2025,Tomato,,,
+45,07–13 November 2025,Ladies Fingers,,,
+45,07–13 November 2025,Brinjal,,,
+45,07–13 November 2025,Cucumber,,,
+45,07–13 November 2025,Bitter Gourd,,,
+45,07–13 November 2025,Long Beans,,,
+46,14–20 November 2025,Green Beans,350.0,560,455.0
+46,14–20 November 2025,Carrot,180.0,400,290.0
+46,14–20 November 2025,Leeks,160.0,350,255.0
+46,14–20 November 2025,Tomato,150.0,320,235.0
+46,14–20 November 2025,Ladies Fingers,180.0,320,250.0
+46,14–20 November 2025,Brinjal,250.0,400,325.0
+46,14–20 November 2025,Cucumber,130.0,280,205.0
+46,14–20 November 2025,Bitter Gourd,500.0,800,650.0
+46,14–20 November 2025,Long Beans,280.0,400,340.0
+47,21–27 November 2025,Green Beans,,,
+47,21–27 November 2025,Carrot,,,
+47,21–27 November 2025,Leeks,,,
+47,21–27 November 2025,Tomato,,,
+47,21–27 November 2025,Ladies Fingers,,,
+47,21–27 November 2025,Brinjal,,,
+47,21–27 November 2025,Cucumber,,,
+47,21–27 November 2025,Bitter Gourd,,,
+47,21–27 November 2025,Long Beans,,,
+48,28 November–04 December 2025,Green Beans,750.0,"1,200",900.0
+48,28 November–04 December 2025,Carrot,500.0,800,650.0
+48,28 November–04 December 2025,Leeks,400.0,600,500.0
+48,28 November–04 December 2025,Tomato,350.0,800,575.0
+48,28 November–04 December 2025,Ladies Fingers,320.0,600,460.0
+48,28 November–04 December 2025,Brinjal,400.0,650,525.0
+48,28 November–04 December 2025,Cucumber,180.0,360,270.0
+48,28 November–04 December 2025,Bitter Gourd,500.0,"1,000",790.0
+48,28 November–04 December 2025,Long Beans,500.0,720,610.0
+49,05–11 December 2025,Green Beans,1000.0,1600,1300.0
+49,05–11 December 2025,Carrot,200.0,800,500.0
+49,05–11 December 2025,Leeks,200.0,800,500.0
+49,05–11 December 2025,Tomato,200.0,600,400.0
+49,05–11 December 2025,Ladies Fingers,200.0,800,500.0
+49,05–11 December 2025,Brinjal,320.0,800,560.0
+49,05–11 December 2025,Cucumber,200.0,480,340.0
+49,05–11 December 2025,Bitter Gourd,600.0,1200,900.0
+49,05–11 December 2025,Long Beans,420.0,1200,810.0
+50,12–18 December 2025,Green Beans,800.0,1600,1200.0
+50,12–18 December 2025,Carrot,240.0,600,420.0
+50,12–18 December 2025,Leeks,280.0,600,440.0
+50,12–18 December 2025,Tomato,400.0,720,560.0
+50,12–18 December 2025,Ladies Fingers,200.0,600,400.0
+50,12–18 December 2025,Brinjal,400.0,800,600.0
+50,12–18 December 2025,Cucumber,200.0,440,320.0
+50,12–18 December 2025,Bitter Gourd,720.0,1200,960.0
+50,12–18 December 2025,Long Beans,400.0,1000,700.0
+51,19–25 December 2025,Green Beans,640.0,1200,920.0
+51,19–25 December 2025,Carrot,300.0,600,450.0
+51,19–25 December 2025,Leeks,320.0,600,460.0
+51,19–25 December 2025,Tomato,600.0,1000,800.0
+51,19–25 December 2025,Ladies Fingers,200.0,600,400.0
+51,19–25 December 2025,Brinjal,600.0,800,700.0
+51,19–25 December 2025,Cucumber,200.0,480,340.0
+51,19–25 December 2025,Bitter Gourd,680.0,1200,940.0
+51,19–25 December 2025,Long Beans,400.0,1000,700.0
+52,26 December 2025–01 January 2026,Green Beans,800.0,1400,1100.0
+52,26 December 2025–01 January 2026,Carrot,300.0,600,450.0
+52,26 December 2025–01 January 2026,Leeks,320.0,600,460.0
+52,26 December 2025–01 January 2026,Tomato,600.0,1000,800.0
+52,26 December 2025–01 January 2026,Ladies Fingers,240.0,600,420.0
+52,26 December 2025–01 January 2026,Brinjal,600.0,800,700.0
+52,26 December 2025–01 January 2026,Cucumber,200.0,400,300.0
+52,26 December 2025–01 January 2026,Bitter Gourd,600.0,1200,900.0
+52,26 December 2025–01 January 2026,Long Beans,400.0,1000,700.0

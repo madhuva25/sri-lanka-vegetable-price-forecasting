@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌱</text></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AgriPrice Sri Lanka | AI Crop Price Forecasting & Market Intelligence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script>
+      try {
+        var savedTheme = localStorage.getItem('agri_theme') || 'light';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="error-fallback" style="display:none; color:#b91c1c; padding:24px; font-family:-apple-system,BlinkMacSystemFont,sans-serif; background:#fef2f2; border:2px solid #ef4444; margin:20px; border-radius:12px; z-index:999999; position:relative;">
+      <h3 style="margin-top:0; font-size:18px;">⚠️ Application Runtime Error Detected:</h3>
+      <pre id="error-text" style="white-space:pre-wrap; font-size:14px; background:#ffffff; padding:12px; border-radius:8px; border:1px solid #fca5a5;"></pre>
+    </div>
+    <script>
+      window.addEventListener('error', function(e) {
+        var fb = document.getElementById('error-fallback');
+        var txt = document.getElementById('error-text');
+        if (fb && txt) {
+          fb.style.display = 'block';
+          txt.textContent += '\n' + (e.error ? (e.error.stack || e.error.message) : e.message);
+        }
+      });
+      window.addEventListener('unhandledrejection', function(e) {
+        var fb = document.getElementById('error-fallback');
+        var txt = document.getElementById('error-text');
+        if (fb && txt) {
+          fb.style.display = 'block';
+          txt.textContent += '\nUnhandled Promise Rejection: ' + (e.reason ? (e.reason.stack || e.reason.message) : e.reason);
+        }
+      });
+    </script>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

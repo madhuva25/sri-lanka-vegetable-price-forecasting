@@ -1,0 +1,27 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# React / Vite
+node_modules/
+dist/
+build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE / Operating system
+.DS_Store
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
